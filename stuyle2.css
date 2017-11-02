@@ -1,0 +1,35 @@
+body{
+	background-image: url(texture.jpg);
+	color: yellow;
+	font-family: "Impact";
+}
+
+a{
+	color: red;
+	text-decoration: none;
+	
+}
+
+ul{
+	list-style-type: georgian;
+	
+}
+
+h1{
+	text-align: center;
+	font-size: 40px;
+	
+}
+
+h2{
+	text-align: center;
+	text-transform: uppercase;
+}
+
+#tehlulz:hover{
+	color: aliceblue;
+}
+
+#head1{
+    text-transform: uppercase;
+}
